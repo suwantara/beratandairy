@@ -1,10 +1,10 @@
 /********** Template CSS **********/
 :root {
-    --primary: #5B8C51;
-    --secondary: #EDDD5E;
-    --light: #F7F7F7;
-    --dark: #404A3D;
-    --gray: #B0B9AE;
+    --primary: #5B8C51 !important;
+    --secondary: #EDDD5E !important;
+    --light: #F7F7F7 !important;
+    --dark: #404A3D !important;
+    --gray: #B0B9AE !important;
 }
 
 .back-to-top {
@@ -63,6 +63,11 @@
 .btn-primary,
 .btn-outline-primary:hover {
     color: var(--light);
+}
+
+.btn-primary {
+    background-color: var(--primary) !important;
+    border-color: var(--primary) !important;
 }
 
 .btn-secondary,
@@ -590,4 +595,8 @@
 
 .blog-loading-spinner.show {
     display: block;
+}
+
+.text-primary {
+    color: var(--primary) !important;
 }
