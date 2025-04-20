@@ -28,6 +28,8 @@
     <!-- Custom CSS - Load terakhir agar bisa override Bootstrap -->
     <link href="{{ asset('css/style.css') }}" rel="stylesheet">
 
+    @vite(['resources/scss/bootstrap.scss', 'resources/js/app.js'])
+
     @stack('css')
 </head>
 <body>

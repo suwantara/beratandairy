@@ -142,7 +142,7 @@
                         <div class="">
                             <div class="d-flex justify-content-start mb-3">
                                 <button type="button" class="btn btn-secondary py-3 px-4 me-3">Beli Sekarang</button>
-                                <button type="button" class="btn border border-primary border-2 px-3 text-primary">Tambahkan Keranjang</button>
+                                <button type="button" class="btn border-primary border-2 px-3 text-primary">Tambahkan Keranjang</button>
                             </div>
                             <div>
                             </div>

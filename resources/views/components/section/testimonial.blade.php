@@ -35,19 +35,19 @@
                         <span class="text-primary">Guru Sekolah Desa</span>
                     </div>
                     <div class="testimonial-item">
-                        <img class="img-fluid mb-3" src="/public/img/24.png" alt="">
+                        <img class="img-fluid mb-3" src="img/24.png" alt="">
                         <p class="fs-5">Investasi di peternakan ini adalah keputusan terbaik yang saya buat. Manajemennya rapi, hasilnya berkualitas, dan yang paling penting, prospeknya cerah! Bisnis ini berkembang pesat, jadi saya nggak ragu buat terus dukung.</p>
                         <h5>Daniel Wijaya</h5>
                         <span class="text-primary">Investor</span>
                     </div>
                     <div class="testimonial-item">
-                        <img class="img-fluid mb-3" src="/public/img/26.png" alt="">
+                        <img class="img-fluid mb-3" src="img/26.png" alt="">
                         <p class="fs-5">Sebagai pemilik kafe, saya selalu cari bahan baku terbaik, dan susu dari peternakan ini juara banget! Susunya fresh, creamy, dan bikin kopi susu di tempat saya jadi favorit pelanggan. Kerja sama yang menguntungkan banget!</p>
                         <h5>Ardi Saputra</h5>
                         <span class="text-primary">Pengusaha Caffe</span>
                     </div>
                     <div class="testimonial-item">
-                        <img class="img-fluid mb-3" src="/public/img/25.png" alt="">
+                        <img class="img-fluid mb-3" src="img/25.png" alt="">
                         <p class="fs-5">Saya selalu rekomendasiin susu dari peternakan ini ke pasien-pasien saya. Kualitasnya terjamin, bebas pengawet, dan nutrisinya tinggi. Keluarga saya sendiri juga langganan karena rasanya enak dan sehat!</p>
                         <h5>dr. Maya Putri</h5>
                         <span class="text-primary">Dokter</span>
